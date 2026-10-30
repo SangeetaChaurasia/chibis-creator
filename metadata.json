@@ -1,0 +1,8 @@
+{
+  "name": "ChibiRealm",
+  "description": "Interactive anime chibi collectibles showcase and sticker vault with series search, character expressions, and sound bites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
